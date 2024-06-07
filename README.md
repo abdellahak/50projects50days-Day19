@@ -8,6 +8,8 @@ the 19th project of 50 projects in 50 days challenge
 
 ## a preview of the project :
 
-https://github.com/abdellahak/50projects50days-Day18/assets/93621937/0ed1fd82-678d-4ac5-8cb1-9bec866f79bb
+
+https://github.com/abdellahak/50projects50days-Day19/assets/93621937/efee97ce-6a33-40d8-8b51-65e0df2ce937
+
 
 ## Based on projects from Brad Traversy and Florin Pop's course: <a href="https://50projects50days.com">50 Projects in 50 Days - HTML, CSS, and JavaScript</a>.
