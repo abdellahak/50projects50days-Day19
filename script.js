@@ -43,7 +43,7 @@ function setTime(){
     secondes.style.transform = `translate(-50%, -100%) rotate(${currentSecondDeg+6}deg)`;
 
     time.innerText = `${hourMod12< 10? "0"+hourMod12:hourMod12} : ${minuteTime< 10? "0"+minuteTime:minuteTime} ${hourTime>12 ? "PM":"AM"}`;
-    dateElement.innerText = `${days[date.getDay()-1]}, ${months[date.getMonth()]}, ${date.getDate()}`;
+    dateElement.innerText = `${days[date.getDay()]}, ${months[date.getMonth()]}, ${date.getDate()}`;
 }
 setTime()
 
